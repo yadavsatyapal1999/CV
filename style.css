@@ -1,0 +1,15 @@
+.img{
+   border-radius: 50%;
+}
+.Heading{
+    color: green;
+    text-align: center;
+ font-size: xx-large;
+}
+.body{
+    background-color: black;
+ color: white;
+}
+.content{
+    font-size: large;
+}
