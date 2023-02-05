@@ -1,2 +1,2 @@
 # CV
-This is my first html website for Resume
+This is my first  website for Resume
